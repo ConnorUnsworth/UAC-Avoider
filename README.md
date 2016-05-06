@@ -19,7 +19,8 @@
 	Go!
 
 ## Example
-	
+	Example showing difference using the app itself
+	![alt tag](https://github.com/ConnorUnsworth/UAC-Avoider/blob/master/Images/example.png)
 
 ## Contributing
 
