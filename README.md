@@ -20,7 +20,7 @@
 
 ## Example
 	Example showing difference using the app itself
-	![alt tag](https://github.com/ConnorUnsworth/UAC-Avoider/blob/master/Images/example.png)
+![Alt text](http://puu.sh/oImha/fc7cdfffe3.png)
 
 ## Contributing
 
