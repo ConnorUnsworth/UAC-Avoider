@@ -1,6 +1,3 @@
-<snippet>
-  <content><![CDATA[
-
 # ${UAC Avoider}
 
 	Allows any file to be run as admin (if you have permissions) without prompting UAC.
@@ -33,6 +30,3 @@
 	Connor Unsworth
 ## License
 	Use according to MIT license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
