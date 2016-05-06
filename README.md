@@ -13,9 +13,18 @@
 
 ## Usage
 
+### Creating a shortcut
+
 	Run
-	Select a file
+	Select a file (Hint: Use the base exe of the file, NOT another shortcut!)
 	Select a save location
+	Go!
+
+### Removing a shortcut
+	
+	'Careful - This will remove normal shortcuts aswell'
+	Run
+	Select Shortcut 
 	Go!
 
 ## Example
