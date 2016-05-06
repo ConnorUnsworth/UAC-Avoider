@@ -4,7 +4,7 @@
 
 ## How it works
 
-	Takes in a file, generates an unique identifier and configures a scheduled task to be run as 'highest priviliges'
+	Takes in a file, generates a unique identifier and configures a scheduled task to be run as 'highest privileges'
 	Shortcut runs the task, which avoids the UAC prompt
 
 ## Installation
@@ -17,6 +17,9 @@
 	Select a file
 	Select a save location
 	Go!
+
+## Example
+	
 
 ## Contributing
 
